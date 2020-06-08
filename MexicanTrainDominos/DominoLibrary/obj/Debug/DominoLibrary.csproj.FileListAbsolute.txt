@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\bin\Debug\DominoLibrary.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\bin\Debug\DominoLibrary.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\obj\Debug\DominoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\obj\Debug\DominoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\obj\Debug\DominoLibrary.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\DominoLibrary\obj\Debug\DominoLibrary.pdb

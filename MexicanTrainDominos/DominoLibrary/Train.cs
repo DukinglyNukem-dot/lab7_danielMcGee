@@ -57,7 +57,10 @@ namespace DominoLibrary
                         {
                                     get
                                     {
-                                                return this[0].BottomDots;
+                                                if (Count == 0)
+                                                            return EngineValue;
+                                                else
+                                                            return this[Count - 1].BottomDots;
                                     }
                         }
 
@@ -73,18 +76,31 @@ namespace DominoLibrary
 
                         // Methods VVV
 
-                        public void Add(Domino d)
+                        private void Add(Domino d)
                         {
                                     dominos.Add(d);
                         }
 
-                        public bool IsPlayable(Domino d, out bool mustFlip)
+                        protected bool IsPlayable(Domino d, out bool mustFlip)
                         {
-                                    mustFlip = true;
-                                    return true;
+                                    bool result = false;
+                                    mustFlip = false;
+                                    // Check the engine value to make sure its valid.
+                                    if(Count == 0)
+                                    {
+                                                result = (d.TopDots == EngineValue || d.BottomDots == EngineValue) ? true : false;
+                                                if (!d.IsDouble && d.BottomDots == EngineValue)
+                                                            mustFlip = true;
+                                    } else // check the bottom dots to make sure its valid.
+                                    {
+                                                result = (d.TopDots == LastDomino.BottomDots || d.BottomDots == LastDomino.BottomDots) ? true : false;
+                                                if (!d.IsDouble && d.BottomDots == LastDomino.BottomDots)
+                                                            mustFlip = true;
+                                    }
+                                    return result;
                         }
-
-                        public abstract bool IsPlayable(Hand h, Domino d, out bool mustFlip);
+                        // Abstract method.
+                        protected abstract bool IsPlayable(Hand h, Domino d, out bool mustFlip);
 
                         public void Play(Hand h, Domino d)
                         {

@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\MexicanTrainDominos.exe.config
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\MexicanTrainDominos.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\MexicanTrainDominos.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\DominoLibrary.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\DominoLibrary.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\MexicanTrainDominos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\MexicanTrainDominos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\MexicanTrainDominos.csproj.CopyComplete
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\MexicanTrainDominos.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\MexicanTrainDominos.pdb

@@ -27,6 +27,14 @@ namespace DominoLibrary
                                     }
                         }
 
+                        public int Score
+                        {
+                                    get
+                                    {
+                                                return TopDots + BottomDots;
+                                    }
+                        }
+
                         public Domino(int t = 0, int b = 0)
                         {
                                     topDots = t;
@@ -38,6 +46,14 @@ namespace DominoLibrary
                                     int temp = TopDots;
                                     topDots = BottomDots;
                                     bottomDots = temp;
+                        }
+
+                        public bool IsDouble
+                        {
+                                    get
+                                    {
+                                                return TopDots == BottomDots;
+                                    }
                         }
 
                         public override string ToString()

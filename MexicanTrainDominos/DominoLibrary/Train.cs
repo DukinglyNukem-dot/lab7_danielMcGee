@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DominoLibrary
 {
-            public abstract class Train
+            public abstract class Train : IEnumerable<Domino>
             {
                         // Fields VVV
 
@@ -137,5 +138,16 @@ namespace DominoLibrary
                                     EngineValue = engineValue;
                         }
 
+                        public IEnumerator<Domino> GetEnumerator()
+                        {
+                                    return ((IEnumerable<Domino>)dominos).GetEnumerator();
+                        }
+
+                        IEnumerator IEnumerable.GetEnumerator()
+                        {
+                                    return ((IEnumerable<Domino>)dominos).GetEnumerator();
+                        }
+
             }
+
 }

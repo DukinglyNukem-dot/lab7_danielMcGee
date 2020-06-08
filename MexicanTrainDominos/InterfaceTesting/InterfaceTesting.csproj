@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DominoLibrary\DominoLibrary.csproj">
+      <Project>{5a2d263a-9c0b-473d-92a5-03ffb71f93b2}</Project>
+      <Name>DominoLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

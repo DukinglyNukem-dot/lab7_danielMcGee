@@ -5,3 +5,6 @@ C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_
 C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\obj\Debug\InterfaceTesting.exe
 C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\obj\Debug\InterfaceTesting.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\bin\Debug\DominoLibrary.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\bin\Debug\DominoLibrary.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab7\lab7_daniel_mcgee\lab7_danielMcGee\MexicanTrainDominos\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.CopyComplete

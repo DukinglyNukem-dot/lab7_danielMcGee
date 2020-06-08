@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DominoLibrary
 {
-            public class Domino
+            public class Domino : IComparable<Domino>
             {
                         private int topDots;
                         private int bottomDots;
@@ -64,6 +64,22 @@ namespace DominoLibrary
                         public override int GetHashCode()
                         {
                                     return new { TopDots, BottomDots }.GetHashCode();
+                        }
+
+                        public int CompareTo(Domino other)
+                        {
+                                    if (this.Score < other.Score)
+                                    {
+                                                return 1;
+                                    }
+                                    else if (this.Score > other.Score)
+                                    {
+                                                return -1;
+                                    }
+                                    else
+                                    {
+                                                return 0;
+                                    }
                         }
 
             }
